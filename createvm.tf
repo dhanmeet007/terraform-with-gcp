@@ -1,5 +1,5 @@
  resource "google_compute_instance" "vm_instance" {
-      name         = "jenkin-test-dhanmeet1234-vm"
+      name         = "jenkin-test-dhanmeet1234-vm-creation"
       machine_type = "f1-micro"
     
       boot_disk {
