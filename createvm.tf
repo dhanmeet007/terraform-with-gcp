@@ -8,7 +8,7 @@
         }
       }    
       network_interface {       
-        network = "default"
+        network = "jenkins-vpc-poc-pipeline"
         access_config {
         }
       }
