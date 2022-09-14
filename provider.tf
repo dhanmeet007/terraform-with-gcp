@@ -1,7 +1,6 @@
 
 provider "google" {
-	project = "acn-gcp-foundation-293421"
+	project = "prj-jenkins-int"
 	region = "us-central1"
 	zone = "us-central1-a"
-	credentials = "./SA_key.json"
 }
